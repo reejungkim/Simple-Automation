@@ -1,0 +1,6 @@
+0,요소,설명,역할,추천지표
+1,Acquisition (사용자유치),"사용자가 어떤 경로로 알게 됐는가? (검색엔진, 마케팅, 위젯, 이메일, PR, 블로그 등)",자연발생적이든 인위적이든 다양한 수단을 통해 시선을 끈다,"웹트래픽, 제품언급,CPC(클릭당 광보단가), 검색결과, 사용자확보비용,오픈율등 DAU(Daily Active Users) MAU(Montly Active Users) CTR(Click-Trough Rate)"
+2,Activation (사용자활성화),"방문자들이 일회성으로 회원가입하는가? 제품을 사용하는가? (기능, 디자인, 분위기, 보상, 확인 등)",일회성 방문자를 활동사용자로 전환시킨다,"등록, 회원가입, 사용개시를 위한 절차완료상태, 1번이상 서비스 이용 Bounce Rate(이탈률) Avg.PV(평균페이지뷰) Avg.Duration(평균체류시간) SighUp(회원가입) CAC(Customer Acquisition Cost) CPC(Cost per Click)"
+3,Retention (사용자유지),"한번 사용한 사람이 계속 사용하는가? (통지, 경보, 알림, 이메일, 업데이트)",사용자들이 재방문하여 계속 사용하게 만든다,"마지막 방문이후 걸린시간, 일/월 활동사용자, 이탈률 쿠폰, 포인트, 리뉴얼"
+4,Revenue (매출),"사용자 활동이 매출로 이어지는가? (거래, 클릭, 회원가입, 콘텐츠다운로드)",사업성과로 이어진다,"고객생애가치, 전환율, 장바구니구매액, 클릭매출 Conversion Rate(전환율) Average order value per User(평균주문율) CLTV(고객생애가치 Customer Life Time Value)"
+5,Referral (추천),"사용자들이 주변에 소개하는가? (이메일, 위젯, 좋아요, 캠페인, 리트윗)",다른사람에게 소개하고 잠재 사용자를 초대한다,"발송된 초대건수, 바이럴계수, 바이럴주기 NPS(Net Promoter Score) 자발적인 바이럴(입소문) Number of Invitaion Send to Invite Friends(초대발송수) Number of App install per Invite(초대응답수)"
